@@ -1,0 +1,15 @@
+[playlist]
+File1=rutrurtutr1
+Title1=cancancanca1
+Length1=60
+File2=rutrurtutr2
+Title2=cancancanca2
+Length2=98
+File3=rutrurtutr3
+Title3=cancancanca3
+Length3=5
+File4=rutrurtutr4
+Title4=cancancanca4
+Length4=156
+NumberOfEntries=4
+Version=2
